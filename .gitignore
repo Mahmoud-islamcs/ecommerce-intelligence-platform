@@ -52,3 +52,6 @@ desktop.ini
 # Temporary files
 *.tmp
 *.log
+powershell.bat
+powershell.cmd
+
