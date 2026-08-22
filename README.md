@@ -21,7 +21,6 @@ An enterprise-grade, end-to-end data analytics and machine learning solution des
 - [Installation and Setup](#installation-and-setup)
 - [Usage Instructions](#usage-instructions)
 - [Business Impact & Strategic Recommendations](#business-impact--strategic-recommendations)
-- [Authors & Contact](#authors--contact)
 
 ---
 
@@ -256,12 +255,5 @@ Open `Supply Chain Analysis.pbix` using **Power BI Desktop** to explore the data
 4. **Freight Subsidy Targeting**: Re-evaluate freight costs on low-margin, high-weight items to boost conversion and average order ratings.
 
 ---
-
-## Authors & Contact
-
-Developed as an advanced end-to-end data analytics and intelligence initiative:
-
-- **Mahmoud Islam** — [LinkedIn](https://www.linkedin.com/in/mahmoud-islam-analytics/) | [GitHub](https://github.com/Mahmoud-islamcs)
-- **Mina Gabra**
 
 For feedback, questions, or collaboration inquiries, please open an issue or reach out via LinkedIn.
